@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 0b9a6b9b-5bf6-bb2b-733c-8567fa220058
 ---
@@ -71,7 +74,7 @@ Having built their Geiger counter, each student performed a series of lab tests 
 ---------------------------------------------------
 
 Here are some photos of the Geiger counter kit and students working in the lab.
-{{< image-gallery id="0b9a6b9b-5bf6-bb2b-733c-8567fa220058_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/" >}}
+{{< image-gallery id="0b9a6b9b-5bf6-bb2b-733c-8567fa220058_nanogallery2" baseUrl="/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/" >}}
 {{< image-gallery-item href="8806deeb408cb649ce8cf1b0f39a5beb_01_built.jpg" data-ngdesc="The assembled Geiger counter. Photo by Mark Chilenski." text="The assembled Geiger counter." >}}
 {{< image-gallery-item href="08fb374241c1acec9d4bd6e549b54f5d_02_kit.jpg" data-ngdesc="The parts that comprise the Geiger counter kit. Photo by Mark Chilenski." text="The parts that comprise the Geiger counter kit." >}}
 {{< image-gallery-item href="2722c55e6634a9cc994d1b5be187ebb9_03_lab.jpg" data-ngdesc="Students assembling their Geiger counters in the lab. Photo by Mike Short." text="Students assembling their Geiger counters in the lab." >}}

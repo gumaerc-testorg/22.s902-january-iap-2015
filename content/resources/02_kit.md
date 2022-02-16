@@ -2,7 +2,7 @@
 content_type: resource
 description: "The parts that comprise the Geiger counter kit. Photo by Mark Chilenski.\r\
   \n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/08fb374241c1acec9d4bd6e549b54f5d_02_kit.jpg
+file: /media/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/08fb374241c1acec9d4bd6e549b54f5d_02_kit.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The parts that comprise the Geiger counter kit.
@@ -10,6 +10,11 @@ image_metadata:
   image-alt: 'Photo of parts laid out on a table: plastic case, screws and fittings,
     Geiger Muller tube, 9V battery, discrete resistors and capacitors, printed circuit
     board.'
+learning_resource_types:
+- Labs
+ocw_type: OCWImage
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Image
 title: 02_kit.jpg
 uid: 08fb3742-41c1-acec-9d4b-d6e549b54f5d

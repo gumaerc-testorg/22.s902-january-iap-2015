@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding top view drawing.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/6aaa8bf9e8c89368f891f4772b8b82d2_MIT22_S902IAP15_casetop.pdf
+file: /media/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/6aaa8bf9e8c89368f891f4772b8b82d2_MIT22_S902IAP15_casetop.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: Top View Drawing
 uid: 6aaa8bf9-e8c8-9368-f891-f4772b8b82d2

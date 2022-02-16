@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 2d14bffe-dd63-6c9b-d719-7e8d00556326
 ---
@@ -69,28 +71,6 @@ None
 ### Offered
 
 This was a first-time experimental offering during IAP.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Ten grey rectangular tables arranged in two rows facing sliding blackboards. LCD projector mounted to ceiling in center of room.]({{< resource_file a1f71729-883d-ff3d-3ba4-297da9f1f63f >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with sliding blackboards, moveable tables and chairs, and a LCD projector.
-    
-*   ![Computer monitors on grey tables. Lab equipment also on some of the tables. Moveable chairs. White boards on the walls. Red and black cables hanging on the right wall of classroom.]({{< resource_file 47cb11bb-de92-f269-e308-3ed72450d522 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Lab
-    
-    Students built their Geiger counters in this lab. Computers, soldering equipment, and other materials were available.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

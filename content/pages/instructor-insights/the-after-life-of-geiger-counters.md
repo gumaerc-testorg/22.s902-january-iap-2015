@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 2d14bffe-dd63-6c9b-d719-7e8d00556326
 title: The After Life of Geiger Counters
 uid: cb1e6ecb-bd7a-166f-67f4-51467e7df99b
