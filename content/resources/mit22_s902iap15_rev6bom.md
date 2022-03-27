@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 0b9a6b9b-5bf6-bb2b-733c-8567fa220058
 resourcetype: Other
 title: MIT22_S902IAP15_Rev6BOM.xlsx
 uid: 56f66328-2079-1cdb-ee27-0133f311a740

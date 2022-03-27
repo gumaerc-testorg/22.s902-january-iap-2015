@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0a5c29e2-f52d-4752-9bda-850fda8afce7
 resourcetype: Document
 title: 'Problem Set 1: Radiation'
 uid: 01e2cfbc-0d36-d37b-b61b-ef40a3381d58

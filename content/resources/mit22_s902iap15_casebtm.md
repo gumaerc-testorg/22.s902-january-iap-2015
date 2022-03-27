@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 0b9a6b9b-5bf6-bb2b-733c-8567fa220058
 resourcetype: Document
 title: Bottom View Drawing
 uid: 9fc0523f-a416-59a6-4169-d53575349cc2

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 0b9a6b9b-5bf6-bb2b-733c-8567fa220058
 resourcetype: Document
 title: MIT DIY Geiger Counter bill of materials
 uid: 217e9440-9a50-f7ca-9f02-c3ae6e5ae364

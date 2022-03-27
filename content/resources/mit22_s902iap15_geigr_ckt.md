@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: af350b6c-0752-3b73-d878-20ee02ad9d34
 resourcetype: Document
 title: "Geiger-M\xFCller Counter Circuit Theory"
 uid: 5c4d174f-86a6-d6a0-c5e4-037b1f71d037

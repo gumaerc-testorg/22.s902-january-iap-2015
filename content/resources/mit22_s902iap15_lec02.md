@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 74b4f0cb-ca11-78d1-5cb7-2114df36247a
 resourcetype: Document
 title: 'Lecture 2: Geiger Tube Theory, Dead Time'
 uid: a4f5c12e-0a51-0778-ea29-8e500ca12824

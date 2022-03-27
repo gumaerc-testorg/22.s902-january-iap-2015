@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 74b4f0cb-ca11-78d1-5cb7-2114df36247a
 resourcetype: Document
 title: 'Lecture 1: Radiation Basics; Radiation Energetics'
 uid: 5c41378a-2940-5707-aaaf-01ec4185e466

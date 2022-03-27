@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0a5c29e2-f52d-4752-9bda-850fda8afce7
 resourcetype: Document
 title: 'Problem Set 2: Geiger Counters and Dead Time'
 uid: 0a098e4f-e8bb-4712-7c5e-3be86e842381

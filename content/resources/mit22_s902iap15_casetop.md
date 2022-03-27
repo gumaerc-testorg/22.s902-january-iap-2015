@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 0b9a6b9b-5bf6-bb2b-733c-8567fa220058
 resourcetype: Document
 title: Top View Drawing
 uid: 6aaa8bf9-e8c8-9368-f891-f4772b8b82d2

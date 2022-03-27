@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 74b4f0cb-ca11-78d1-5cb7-2114df36247a
 resourcetype: Document
 title: 'Lecture 3: Shielding and Range; Radiation Protection '
 uid: 1e0dd9b1-4724-e261-c53d-72dbb6135b79

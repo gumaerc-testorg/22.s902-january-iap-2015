@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0a5c29e2-f52d-4752-9bda-850fda8afce7
 resourcetype: Document
 title: 'Problem Set 3: Shielding'
 uid: 525ef5a3-43a0-71cb-3dd3-d81109bede38

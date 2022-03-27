@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 0b9a6b9b-5bf6-bb2b-733c-8567fa220058
 resourcetype: Other
 title: MITNSECounter.exe
 uid: 0772d8c7-4905-d75b-9b6c-9e6e1ee762d4

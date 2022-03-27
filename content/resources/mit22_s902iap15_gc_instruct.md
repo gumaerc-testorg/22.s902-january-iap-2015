@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 0b9a6b9b-5bf6-bb2b-733c-8567fa220058
 resourcetype: Document
 title: "Build your own Geiger-M\xFCller counter"
 uid: e5641a1b-cb88-964d-182a-11b5437fb1c6
