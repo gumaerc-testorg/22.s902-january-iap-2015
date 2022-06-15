@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding bottom view drawing.
-file: /media/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/9fc0523fa41659a64169d53575349cc2_MIT22_S902IAP15_casebtm.pdf
+file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/9fc0523fa41659a64169d53575349cc2_MIT22_S902IAP15_casebtm.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Bottom View Drawing
 uid: 9fc0523f-a416-59a6-4169-d53575349cc2
 ---
+This is a file that contains information regarding bottom view drawing.
+

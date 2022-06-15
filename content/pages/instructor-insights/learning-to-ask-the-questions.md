@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Michael Short shares his insights about teaching students
+  to engage in open-ended problem solving.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

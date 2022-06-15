@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Michael Short shares his insights about developing and
+  teaching hands-on courses.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

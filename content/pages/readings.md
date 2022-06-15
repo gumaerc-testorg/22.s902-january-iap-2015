@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course textbook, assigned readings,
+  and background and supplemental readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -55,7 +57,7 @@ Geiger counter circuit theory
 
 \[Turner\] "Activity" and "Exponential Decay." Sections 4.1 and 4.2,  pp. 83–85.
 
-Course notes: ["Geiger-Müller Counter Circuit Theory." (PDF)]({{< baseurl >}}/resources/mit22_s902iap15_geigr_ckt) (Courtesy of Mark Chilenski. Used with permission.)
+Course notes: {{% resource_link 5c4d174f-86a6-d6a0-c5e4-037b1f71d037 "\"Geiger-Müller Counter Circuit Theory.\" (PDF)" %}} (Courtesy of Mark Chilenski. Used with permission.)
 
 
 {{< tdclose >}}

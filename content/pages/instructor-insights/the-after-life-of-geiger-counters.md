@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Michael Short talks about how students use their Geiger
+  counters after the workshop experience.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/ba8dd100dab5d9b6b0346922f9e6eb90_22-S09_stat-students.png
+file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/ba8dd100dab5d9b6b0346922f9e6eb90_22-S09_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''

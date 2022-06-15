@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides and introduction to the course and information
+  on meeting times, objectives, logistics, homework assignments, grading, tips for
+  success, and the schedule of readings, lectures, labs and, homework assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
