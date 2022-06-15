@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Michael Short shares how 22.S902 Do-It-Yourself (DIY)
+  Geiger Counters developed from a successful weekend Geiger Counter workshop.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,8 +11,7 @@ parent_uid: 2d14bffe-dd63-6c9b-d719-7e8d00556326
 title: Course History and Future Iteration
 uid: 7fd15314-cf44-98b9-dd0f-da1a5006a8c1
 ---
-
-_In this section, Michael Short shares how _22.S902 Do-It-Yourself (DIY) Geiger Counters_ developed from a successful weekend Geiger Counter workshop._
+_In this section, Michael Short shares how_ 22.S902 Do-It-Yourself (DIY) Geiger Counters _developed from a successful weekend Geiger Counter workshop_.
 
 For two years now, we’ve been running a really successful Build Your Own Geiger Counter weekend experience for students. During this experience, 25 students use our kits to build, calibrate, test, and keep their own Geiger counters. The whole activity takes six hours. It’s a time of hands-on building and purposeful playing. Students seem genuinely happy during the workshop—there’s just something about experimenting with a device they build themselves that seems to help them retain what they learn.
 
