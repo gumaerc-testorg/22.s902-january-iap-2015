@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course assignments and supporting materials.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 0a5c29e2-f52d-4752-9bda-850fda8afce7
 ---
@@ -29,7 +33,7 @@ SUPPORTING MATERIALS
 {{< tdopen >}}
 
 
-After learning about the NSE Geiger Data Collection program (see [Labs page]({{< baseurl >}}/pages/labs)), students proposed how to analyze data from that program.
+After learning about the NSE Geiger Data Collection program (see {{% resource_link 0b9a6b9b-5bf6-bb2b-733c-8567fa220058 "Labs page" %}}), students proposed how to analyze data from that program.
 
 
 {{< tdclose >}}
@@ -43,7 +47,7 @@ After learning about the NSE Geiger Data Collection program (see [Labs page]({{<
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 1: Radiation (PDF)]({{< baseurl >}}/resources/mit22_s902iap15_pset01)
+{{% resource_link 01e2cfbc-0d36-d37b-b61b-ef40a3381d58 "Problem Set 1: Radiation (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -55,10 +59,10 @@ After learning about the NSE Geiger Data Collection program (see [Labs page]({{<
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 2: Geiger Counters and Dead Time (PDF)]({{< baseurl >}}/resources/mit22_s902iap15_pset02)
+{{% resource_link 0a098e4f-e8bb-4712-7c5e-3be86e842381 "Problem Set 2: Geiger Counters and Dead Time (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Data for Problem Set 2, Problem 4 (CSV)]({{< baseurl >}}/resources/pset02_p4data)
+{{% resource_link 587daa1e-27a6-8339-d61f-9b84df1af843 "Data for Problem Set 2, Problem 4 (CSV)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ After learning about the NSE Geiger Data Collection program (see [Labs page]({{<
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 3: Shielding (PDF)]({{< baseurl >}}/resources/mit22_s902iap15_pset03)
+{{% resource_link 525ef5a3-43a0-71cb-3dd3-d81109bede38 "Problem Set 3: Shielding (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 [NIST Tables of Linear Attentuation Coefficients](http://www.nist.gov/pml/data/xraycoef/)

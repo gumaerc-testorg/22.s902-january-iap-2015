@@ -1,38 +1,40 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 2d14bffe-dd63-6c9b-d719-7e8d00556326
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _22.S902 Do-It-Yourself (DIY) Geiger Counters_ as it was taught by Prof. Michael Short in IAP 2015.
 
 This experimental one-week course, offered during the January IAP term ![](/images/educator/icon-question-iap.png), is a freshman-accessible hands-on introduction to Nuclear Science and Engineering at MIT. Students build and test their own Geiger Counter, and in so doing, they explore different types and sources of radiation, how to detect them, how to shield them, and how to accurately count/measure their activity. This course is meant to be enjoyable and rigorous at the same time.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
 Learning objectives:
 
-*   Understand types of radiation: alpha, beta, gamma, neutrons and others
-*   Describe characteristics of natural and man-made radiation sources
-*   Predict the type and energy of radiation for different reactions
-*   Explain principles of radiation shielding
-*   Interpret detector theory and limitations
-*   Gain exposure to statistics, uncertainty, and error analysis as applied to Geiger counters
-*   Understand implementation issues: circuit theory, sources of error and dead time
+- Understand types of radiation: alpha, beta, gamma, neutrons and others
+- Describe characteristics of natural and man-made radiation sources
+- Predict the type and energy of radiation for different reactions
+- Explain principles of radiation shielding
+- Interpret detector theory and limitations
+- Gain exposure to statistics, uncertainty, and error analysis as applied to Geiger counters
+- Understand implementation issues: circuit theory, sources of error and dead time
 
 Laboratory objectives:
 
-*   Learn how to solder and assemble circuits
-*   Develop testing and debugging skills
-*   Understand sources of experimental error
-*   Plan experimental procedures for faster success
+- Learn how to solder and assemble circuits
+- Develop testing and debugging skills
+- Understand sources of experimental error
+- Plan experimental procedures for faster success
 
 ### Possibilities for Further Study/Careers
 
@@ -42,21 +44,19 @@ The course also provides students with the fundamentals needed for the study of 
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "This is the class in which I want to see things exploding. This is where I want to see you do the high-voltage dance. This is where I want everything to go wrong, because you can’t get it to go right unless you see what goes wrong." "—Michael Short" >}}
 
-_In the following pages, Prof. Michael Short describes various aspects of how he taught _22.S902 Do-It-Yourself (DIY) Geiger Counters_._
+_In the following pages, Prof. Michael Short describes various aspects of how he taught_ 22.S902 Do-It-Yourself (DIY) Geiger Counters.
 
-*   [Course History and Future Iteration]({{< baseurl >}}/pages/instructor-insights/course-history-and-future-iteration)
-*   [Developing and Teaching Hands-on Courses]({{< baseurl >}}/pages/instructor-insights/developing-and-teaching-hands-on-courses)
-*   [Learning to Ask the Questions]({{< baseurl >}}/pages/instructor-insights/learning-to-ask-the-questions)
-*   [Keeping Students Interested, and Talking]({{< baseurl >}}/pages/instructor-insights/keeping-students-interested-and-talking)
-*   [The After Life of Geiger Counters]({{< baseurl >}}/pages/instructor-insights/the-after-life-of-geiger-counters)
+- {{% resource_link 7fd15314-cf44-98b9-dd0f-da1a5006a8c1 "Course History and Future Iteration" %}}
+- {{% resource_link 5087b81e-e1ca-db94-395d-4e534e543e0b "Developing and Teaching Hands-on Courses" %}}
+- {{% resource_link 98971248-f330-c89d-5a34-f4974c4a6f72 "Learning to Ask the Questions" %}}
+- {{% resource_link 45b30629-416a-3767-db1e-56282160518a "Keeping Students Interested, and Talking" %}}
+- {{% resource_link cb1e6ecb-bd7a-166f-67f4-51467e7df99b "The After Life of Geiger Counters" %}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -70,32 +70,9 @@ None
 
 This was a first-time experimental offering during IAP.
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Ten grey rectangular tables arranged in two rows facing sliding blackboards. LCD projector mounted to ceiling in center of room.]({{< resource_file a1f71729-883d-ff3d-3ba4-297da9f1f63f >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with sliding blackboards, moveable tables and chairs, and a LCD projector.
-    
-*   ![Computer monitors on grey tables. Lab equipment also on some of the tables. Moveable chairs. White boards on the walls. Red and black cables hanging on the right wall of classroom.]({{< resource_file 47cb11bb-de92-f269-e308-3ed72450d522 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Lab
-    
-    Students built their Geiger counters in this lab. Computers, soldering equipment, and other materials were available.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -103,14 +80,15 @@ The students' grades were based on the following activities:
 - 25% Lab report
 - 50% Successfully building a working Geiger counter
 
-
 ### Instructor Insights on Assessment
+
 In assessing student learning, we attended to whether or not students accounted for experimental error in their work. We wanted to know if they were thinking about statistics, or just writing down the numbers generated by the counters. We checked to see if they were thinking critically about the data. For example, if students got a background count of 0, we didn’t want them to assume that that number meant there was no radiation in the room. We wanted them to consider the fact that something may have gone wrong with their experiment, such as a loose wire. These were the kinds of things that we paid attention to in our grading.
 
-Student Information
--------------------
+## Student Information
 
-![12 students took this course when it was offered in January 2015.]({{< resource_file ba8dd100-dab5-d9b6-b034-6922f9e6eb90 >}})
+### Enrollment
+
+12 students
 
 ### Breakdown by Year
 
@@ -122,38 +100,34 @@ The bigger the better, up to about 25-30 students (assuming 2 or 3 talented TAs)
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 This was a one-week course, in which students were expected to spend approximately 40 hours, divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 4 hours a day for one week; 5 total sessions.
-*   Interactive lectures.
-*   Hands-on lab experiences; students built their Geiger counters from kits and used the counters to run experiments.
+- Met 4 hours a day for one week; 5 total sessions.
+- Interactive lectures.
+- Hands-on lab experiences; students built their Geiger counters from kits and used the counters to run experiments.
 
-Out of Class
-------------
+### Out of Class
 
-*   [Problem sets]({{< baseurl >}}/pages/assignments)
-*   [Lab reports]({{< baseurl >}}/pages/labs)
+- {{% resource_link 0a5c29e2-f52d-4752-9bda-850fda8afce7 "Problem sets" %}}
+- {{% resource_link 0b9a6b9b-5bf6-bb2b-733c-8567fa220058 "Lab reports" %}}
 
 {{< anchor "roles" >}}{{< /anchor >}}
 
-Course Team Roles
------------------
+## Course Team Roles
 
 ### Main Instructor (Prof. Michael Short)
 
-*   Developed and delivered lecture content.
-*   Assessed students’ work.
-*   Assisted students during lab.
+- Developed and delivered lecture content.
+- Assessed students’ work.
+- Assisted students during lab.
 
 ### Teaching Assistants (Mark Chilenski and Matthew D’Asaro)
 
-*   Mark Chilenski designed the Geiger counter hardware and instruction manual. Delivered lectures about how the Geiger counter works.
-*   Matthew D’Asaro designed software that allows users to digitize counts and export them into an Excel file.
-*   Both TAs assisted students during labs.
-*   To learn more about Mark Chilenski and Matthew D’Asaro, please see the [MIT Technology Review](http://www.technologyreview.com/) article, “[A Dormitory Laboratory: Grad students Matthew D’Asaro and Mark Chilenski have turned their dorm room into an engineering workshop](https://www.technologyreview.com/2015/02/18/11760/a-dormitory-laboratory/).”
+- Mark Chilenski designed the Geiger counter hardware and instruction manual. Delivered lectures about how the Geiger counter works.
+- Matthew D’Asaro designed software that allows users to digitize counts and export them into an Excel file.
+- Both TAs assisted students during labs.
+- To learn more about Mark Chilenski and Matthew D’Asaro, please see the [MIT Technology Review](http://www.technologyreview.com/) article, “[A Dormitory Laboratory: Grad students Matthew D’Asaro and Mark Chilenski have turned their dorm room into an engineering workshop](https://www.technologyreview.com/2015/02/18/11760/a-dormitory-laboratory/).”

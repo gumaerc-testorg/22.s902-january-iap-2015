@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Michael Short shares his strategies for keeping lectures
+  engaging and for encouraging intergroup communication.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 2d14bffe-dd63-6c9b-d719-7e8d00556326
 title: Keeping Students Interested, and Talking
 uid: 45b30629-416a-3767-db1e-56282160518a

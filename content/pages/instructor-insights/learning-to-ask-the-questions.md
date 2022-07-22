@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Michael Short shares his insights about teaching students
+  to engage in open-ended problem solving.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 2d14bffe-dd63-6c9b-d719-7e8d00556326
 title: Learning to Ask the Questions
 uid: 98971248-f330-c89d-5a34-f4974c4a6f72
