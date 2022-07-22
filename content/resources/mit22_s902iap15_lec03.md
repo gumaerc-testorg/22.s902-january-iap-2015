@@ -5,6 +5,7 @@ file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/1e0dd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 3: Shielding and Range; Radiation Protection '
 uid: 1e0dd9b1-4724-e261-c53d-72dbb6135b79
 ---
 This file contains information regarding lecture 3: shielding and range.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Photo of assembled electronic board within a clear plastic case.
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 01_built.jpg
 uid: 8806deeb-408c-b649-ce8c-f1b0f39a5beb
 ---
 The assembled Geiger counter. Photo by Mark Chilenski.
-

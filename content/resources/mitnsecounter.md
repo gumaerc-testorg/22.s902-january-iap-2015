@@ -5,6 +5,7 @@ file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/0772d
 file_type: application/x-msdos-program
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITNSECounter.exe
 uid: 0772d8c7-4905-d75b-9b6c-9e6e1ee762d4
 ---
 This is a special file related to .exe.
-

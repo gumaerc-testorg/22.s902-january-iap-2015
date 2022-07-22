@@ -5,6 +5,7 @@ file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/6aaa8
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Top View Drawing
 uid: 6aaa8bf9-e8c8-9368-f891-f4772b8b82d2
 ---
 This is a file that contains information regarding top view drawing.
-

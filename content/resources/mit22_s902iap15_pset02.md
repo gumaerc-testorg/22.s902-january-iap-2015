@@ -6,6 +6,7 @@ file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/0a098
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Problem Set 2: Geiger Counters and Dead Time'
 uid: 0a098e4f-e8bb-4712-7c5e-3be86e842381
 ---
 This file contains information regarding problem set 2: geiger counters and dead time.
-

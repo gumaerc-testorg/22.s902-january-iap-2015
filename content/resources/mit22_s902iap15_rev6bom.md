@@ -5,6 +5,7 @@ file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/56f66
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

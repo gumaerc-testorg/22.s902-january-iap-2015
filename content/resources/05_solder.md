@@ -11,6 +11,7 @@ image_metadata:
     to solder a device into a circuit board.
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 05_solder.jpg
 uid: 6b0abc6e-95be-bf78-f240-59838f49d34e
 ---
 Soldering is one of the skills developed in this course. Photo by Mike Short.
-

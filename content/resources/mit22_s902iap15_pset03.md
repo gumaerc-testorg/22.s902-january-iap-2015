@@ -5,6 +5,7 @@ file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/525ef
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set 3: Shielding'
 uid: 525ef5a3-43a0-71cb-3dd3-d81109bede38
 ---
 This file contains information regarding problem set 3: shielding.
-

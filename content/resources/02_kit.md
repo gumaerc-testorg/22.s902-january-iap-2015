@@ -12,6 +12,7 @@ image_metadata:
     board.'
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -21,5 +22,3 @@ title: 02_kit.jpg
 uid: 08fb3742-41c1-acec-9d4b-d6e549b54f5d
 ---
 The parts that comprise the Geiger counter kit. Photo by Mark Chilenski.
-
-

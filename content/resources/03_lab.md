@@ -10,6 +10,7 @@ image_metadata:
     them, soldering and assembling electronics.
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: 03_lab.jpg
 uid: 2722c55e-6634-a9cc-994d-1b5be187ebb9
 ---
 Students assembling their Geiger counters in the lab. Photo by Mike Short.
-

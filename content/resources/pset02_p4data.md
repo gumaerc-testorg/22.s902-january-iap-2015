@@ -5,6 +5,7 @@ file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/587da
 file_type: text/comma-separated-values
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset02_p4data.csv
 uid: 587daa1e-27a6-8339-d61f-9b84df1af843
 ---
 This is a special file related .csv.
-

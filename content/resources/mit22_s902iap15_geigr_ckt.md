@@ -6,6 +6,7 @@ file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/5c4d1
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Geiger-M\xFCller Counter Circuit Theory"
 uid: 5c4d174f-86a6-d6a0-c5e4-037b1f71d037
 ---
 This file contains information regarding geiger-müller counter circuit theory.
-
