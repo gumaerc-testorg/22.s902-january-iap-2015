@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding lecture 3: shielding and range.'
 file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/1e0dd9b14724e261c53d72dbb6135b79_MIT22_S902IAP15_lec03.pdf
+file_size: 840940
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
