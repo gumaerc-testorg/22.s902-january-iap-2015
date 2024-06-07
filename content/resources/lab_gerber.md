@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file that contains information regarding lab gerber.
 file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/0dd01977ae3f5be78d628cae74d4e615_lab_gerber.zip
+file_size: 53916
 file_type: application/zip
 learning_resource_types:
 - Labs
