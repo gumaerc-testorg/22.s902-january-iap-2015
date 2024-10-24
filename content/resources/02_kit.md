@@ -2,7 +2,7 @@
 content_type: resource
 description: "The parts that comprise the Geiger counter kit. Photo by Mark Chilenski.\r\
   \n"
-file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/08fb374241c1acec9d4bd6e549b54f5d_02_kit.jpg
+file: /ol-ocw-studio-app/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/08fb374241c1acec9d4bd6e549b54f5d_02_kit.jpg
 file_size: 72531
 file_type: image/jpeg
 image_metadata:
