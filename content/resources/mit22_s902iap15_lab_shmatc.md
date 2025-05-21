@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding geiger counter schematic diagram
-file: /ol-ocw-studio-app/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/eeb952be7a603ecd85c3f54bbe681541_MIT22_S902IAP15_lab_shmatc.pdf
+file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/eeb952be7a603ecd85c3f54bbe681541_MIT22_S902IAP15_lab_shmatc.pdf
 file_size: 1121781
 file_type: application/pdf
 learning_resource_types:
