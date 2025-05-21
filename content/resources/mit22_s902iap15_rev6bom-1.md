@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/217e94409a50f7ca9f02c3ae6e5ae364_MIT22_S902IAP15_Rev6BOM.pdf
+file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/217e94409a50f7ca9f02c3ae6e5ae364_MIT22_S902IAP15_Rev6BOM.pdf
 file_size: 177429
 file_type: application/pdf
 learning_resource_types:
