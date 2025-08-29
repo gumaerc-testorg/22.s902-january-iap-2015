@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related .csv.
-file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/587daa1e27a68339d61f9b84df1af843_pset02_p4data.csv
+file: /ol-ocw-studio-app/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/587daa1e27a68339d61f9b84df1af843_pset02_p4data.csv
 file_size: 1032317
 file_type: text/comma-separated-values
 learning_resource_types:
