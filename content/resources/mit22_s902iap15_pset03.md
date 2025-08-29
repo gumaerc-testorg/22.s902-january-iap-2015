@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding problem set 3: shielding.'
-file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/525ef5a343a071cb3dd3d81109bede38_MIT22_S902IAP15_pset03.pdf
+file: /ol-ocw-studio-app/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/525ef5a343a071cb3dd3d81109bede38_MIT22_S902IAP15_pset03.pdf
 file_size: 185948
 file_type: application/pdf
 learning_resource_types:

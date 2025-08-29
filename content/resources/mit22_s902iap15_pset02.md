@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding problem set 2: geiger counters
   and dead time.'
-file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/0a098e4fe8bb47127c5e3be86e842381_MIT22_S902IAP15_pset02.pdf
+file: /ol-ocw-studio-app/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/0a098e4fe8bb47127c5e3be86e842381_MIT22_S902IAP15_pset02.pdf
 file_size: 131288
 file_type: application/pdf
 learning_resource_types:
