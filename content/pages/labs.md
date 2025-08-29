@@ -4,7 +4,7 @@ description: This section provides instructions, tools, and software for a lab a
   to build a Geiger counter.
 draft: false
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 0b9a6b9b-5bf6-bb2b-733c-8567fa220058
