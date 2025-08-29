@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Students assembling their Geiger counters in the lab. Photo by Mike Short.
-file: /courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/2722c55e6634a9cc994d1b5be187ebb9_03_lab.jpg
+file: /ol-ocw-studio-app/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/2722c55e6634a9cc994d1b5be187ebb9_03_lab.jpg
 file_size: 71064
 file_type: image/jpeg
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   image-alt: Photo of a classroom with 3 rectangular tables, 11 students seated around
     them, soldering and assembling electronics.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
