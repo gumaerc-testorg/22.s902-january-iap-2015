@@ -74,7 +74,7 @@ After learning about the NSE Geiger Data Collection program (see {{% resource_li
 {{% resource_link 525ef5a3-43a0-71cb-3dd3-d81109bede38 "Problem Set 3: Shielding (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[NIST Tables of Linear Attentuation Coefficients](http://www.nist.gov/pml/data/xraycoef/)
+{{% resource_link "d4269e4d-99b2-495c-a544-bd12704d661e" "NIST Tables of Linear Attentuation Coefficients" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
