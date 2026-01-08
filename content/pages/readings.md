@@ -12,7 +12,7 @@ uid: af350b6c-0752-3b73-d878-20ee02ad9d34
 Course Textbook
 ---------------
 
-\[Turner\] = Turner, James. _Atoms, Radiation, and Radiation Protection_. 3rd ed. Wiley-VCH, 2007. ISBN: 9783527406067. \[Preview with {{% resource_link "e1c19bff-388f-4db1-9759-d7f8736387b9" "Google Books" %}}\]
+\[Turner\] = Turner, James. _Atoms, Radiation, and Radiation Protection_. 3rd ed. Wiley-VCH, 2007. ISBN: 9783527406067. \[Preview with [Google Books](http://books.google.com/books?id=-NjMPZEt2yUC&pg=PAfrontcover)\]
 
 Assigned Readings
 -----------------
