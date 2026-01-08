@@ -130,4 +130,4 @@ This was a one-week course, in which students were expected to spend approximate
 - Mark Chilenski designed the Geiger counter hardware and instruction manual. Delivered lectures about how the Geiger counter works.
 - Matthew D’Asaro designed software that allows users to digitize counts and export them into an Excel file.
 - Both TAs assisted students during labs.
-- To learn more about Mark Chilenski and Matthew D’Asaro, please see the {{% resource_link "247d70bb-c20b-4b2e-9429-332832943cf6" "MIT Technology Review" %}} article, “{{% resource_link "402d27a3-c1f3-4dd0-8356-0931ab4fc82e" "A Dormitory Laboratory: Grad students Matthew D’Asaro and Mark Chilenski have turned their dorm room into an engineering workshop" %}}.”
+- To learn more about Mark Chilenski and Matthew D’Asaro, please see the [MIT Technology Review](http://www.technologyreview.com/) article, “[A Dormitory Laboratory: Grad students Matthew D’Asaro and Mark Chilenski have turned their dorm room into an engineering workshop](https://www.technologyreview.com/2015/02/18/11760/a-dormitory-laboratory/).”
